@@ -9,14 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/aradhanapatidar/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/aradhanapatidar/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aradhanapatidar/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/aradhanapatidar/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/aradhanapatidar/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/aradhanapatidar/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aradhanapatidar/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
