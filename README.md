@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aradhanapatidar/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/aradhanapatidar/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/aradhanapatidar/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/aradhanapatidar/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [3546-equal-sum-grid-partition-i](https://github.com/aradhanapatidar/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
